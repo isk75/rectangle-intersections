@@ -1,0 +1,6 @@
+@RectanglesApp_HostAddress = http://localhost:5091
+
+GET {{RectanglesApp_HostAddress}}/Rectangles/
+Accept: application/json
+
+###
